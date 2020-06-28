@@ -16,7 +16,7 @@
 
 <Body>
 <p1> My Fast Name Is abu Syed  And Second name Is </P1>
-<p> My village Name is syed damgara ./P>
+<p> My village Name is syed damgara </P>
 
 
 </Body>
