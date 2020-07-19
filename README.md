@@ -1,6 +1,11 @@
 
 <!DOCTYPE html>
 <html>
+  <head>
+    <style>
+      body{background-color: lightblue;}
+    </style>
+  </head>
 <body>
 
 <p1>My First  Azizul Haque  my village is syed damgara </p1>
@@ -11,13 +16,4 @@
 </html>
 
 
-<!Doctype html>
-<html>
 
-<Body>
-<p1> My Fast Name Is abu Syed  And Second name Is </P1>
-<p> My village Name is syed damgara </P>
-
-
-</Body>
-</html>
