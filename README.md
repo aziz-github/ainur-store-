@@ -1,12 +1,8 @@
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <style>
-      body{background-color: lightblue;}
-    </style>
-  </head>
-<body>
+ <body>
+   
 
 <p1>My First  Azizul Haque  my village is syed damgara </p1>
 
