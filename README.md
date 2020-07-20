@@ -1,15 +1,24 @@
-
 <!DOCTYPE html>
 <html>
- <body>
-   
+<head>
+<style>
+body{background-color:black;}
+h1,h2,p{
+  
+  text-align: center;
+  color: red;
+}
+</style>
+</head>
+<body>
 
-<p1>My First  Azizul Haque  my village is syed damgara </p1>
-
-<p>My first paragraph.</p>
+<h1>Hello World!</h1>
+<h2>Smaller heading!</h2>
+<p>This is a paragraph.</p>
 
 </body>
 </html>
+
 
 
 
